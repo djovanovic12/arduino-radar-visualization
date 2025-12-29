@@ -27,7 +27,7 @@ Vizuelizacija pomoću matplotlib biblioteke
 |--------------|--------------|------------------|
 | Dimitrije Jovanović  | RN 137/2023    | Python aplikacija i vizuelizacija |
 | Filip Matijević  | RN 53/2019    | xxxxx |
-| Jelisaveta Tepavčević  | RN 7/2023    | xxxxx |
+| Jelisaveta Tepavčević  | RN 7/2023    | Povezivanje senzora i servo motora |
 
 ## 🔌 Korišćene komponente
 Arduino Uno
