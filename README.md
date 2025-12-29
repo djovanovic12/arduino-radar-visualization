@@ -43,12 +43,6 @@ Python 3
 4. Pokrenuti `radar_serial.py`  
 5. Posmatrati radar vizuelizaciju  
 
-## 📁 Struktura projekta
-arduino_radar/
-│
-├── arduino_radar/
-│   └── arduino_radar.ino
-│
-├── radar_serial.py
-├── radar_sim.py
-└── README.md
+## 🎥 Demonstracija rada
+- [Video 1](LINK)
+- [Video 2](LINK)
