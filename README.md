@@ -1,28 +1,48 @@
-📡 Arduino Radar Visualization (Python + Arduino)
-📌 Opis projekta
+📡 Arduino Radar – Vizuelizacija u Pythonu
+📖 Opis projekta
 
-Ovaj projekat predstavlja radarski sistem za detekciju prepreka, realizovan pomoću:
+Ovaj projekat prikazuje rad jednostavnog radarskog sistema baziranog na Arduino platformi.
+Sistem koristi ultrazvučni senzor i servo motor za skeniranje okoline, dok se rezultati prikazuju u realnom vremenu pomoću Python aplikacije.
 
-Arduino Uno
+🧩 Funkcionalnosti
 
-dodajte ovde ako treba jos nesto?
+Rotacija senzora pomoću servo motora
 
-?
+Merenje distance pomoću ultrazvučnog senzora
 
-Python aplikacije za vizuelizaciju
+Slanje podataka preko serijske komunikacije
 
-Sistem funkcioniše tako što servo motor rotira senzor u opsegu od 0° do 180°, meri udaljenost prepreka i šalje podatke računaru putem serijske komunikacije, gde se oni prikazuju u vidu radarske vizualizacije.
-
-👥 Članovi tima
-Ime i prezime	Broj indeksa	Deo projekta
-Dimitrije Jovanovic	137/2023	Python aplikacija, vizuelizacija
-Ime Prezime	20xx/xxxx	?
-Ime Prezime	20xx/xxxx	?
+Vizuelizacija u obliku radara (Python)
 
 🧠 Podela zadataka
 🔧 Hardverski deo (Arduino)
 
-Povezivanje:
+Povezivanje senzora i servo motora
+
+Arduino kod za upravljanje uređajima
+
+Slanje podataka u formatu: ugao,distanca
+
+💻 Softverski deo (Python)
+
+Čitanje serijskih podataka
+
+Obrada i prikaz u realnom vremenu
+
+Vizuelizacija pomoću matplotlib biblioteke
+
+👥 Članovi tima
+
+Evo lepše i profesionalne tabele 👇
+
+Ime i prezime	Broj indeksa	Uloga u projektu
+Ime Prezime	20XX/XXXX	Arduino povezivanje, senzor, servo
+Ime Prezime	20XX/XXXX	Python aplikacija, vizualizacija
+Ime Prezime	20XX/XXXX	Integracija i testiranje
+
+(popuni imena po potrebi)
+
+🔌 Korišćene komponente
 
 Arduino Uno
 
@@ -30,35 +50,18 @@ Ultrazvučni senzor (HC-SR04)
 
 Servo motor
 
-Pisanje Arduino koda:
+USB kabl
 
-Upravljanje servo motorom
+Python 3
 
-Očitavanje distance
+▶ Pokretanje projekta
 
-Slanje podataka u formatu:
+Povezati Arduino sa računarom
 
-ugao,distanca
+Uploadovati kod iz fajla arduino_radar.ino
 
-💻 Softverski deo (Python)
+Proveriti serijski port u Arduino IDE
 
-Čitanje podataka sa serijskog porta
+Pokrenuti radar_serial.py
 
-Obrada podataka
-
-Prikaz u realnom vremenu
-
-Vizuelizacija u obliku radara (polar plot)
-
-🔌 Povezivanje komponenti
-Ultrazvučni senzor (HC-SR04)
-Pin senzora	Arduino
-VCC	5V
-GND	GND
-TRIG	D8
-ECHO	D7
-Servo motor
-Servo	Arduino
-Signal	D9
-VCC	5V
-GND	GND
+Posmatrati radar vizuelizaciju
