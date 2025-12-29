@@ -43,6 +43,6 @@ Python 3
 4. Pokrenuti `radar_serial.py`  
 5. Posmatrati radar vizuelizaciju  
 
-## 🎥 Demonstracija rada
-- [Video 1](LINK)
-- [Video 2](LINK)
+## 🎥 Demonstracija rada sistema
+- [Video 1](https://drive.google.com/file/d/14OXwk00mVM_XMqj0nrh-VkUtTGmzQbUU/view?usp=sharing)
+- [Video 2](https://drive.google.com/file/d/1OXna64JG_uhGVJ53yESJyuLX5oAypa4j/view?usp=sharing)
