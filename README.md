@@ -45,8 +45,7 @@ Python 3
 
 ## 🎥 Demonstracija rada sistema
 - [Slika robota](https://drive.google.com/file/d/1MraulsgjDurmTQOjdV4mJprrjSNbUSZI/view?usp=sharing)
-  
+
 - [Video 1](https://drive.google.com/file/d/14OXwk00mVM_XMqj0nrh-VkUtTGmzQbUU/view?usp=sharing)
 - [Video 2](https://drive.google.com/file/d/1OXna64JG_uhGVJ53yESJyuLX5oAypa4j/view?usp=sharing)
-- [Video 3](https://drive.google.com/file/d/1rguSijGCB9MILz7XIJxReldut_7UOm7r/view?usp=sharing)
-
+- [Video 3](https://drive.google.com/file/d/11c58CotUJq63cRjXeROMKPzh5b8_gLaZ/view?usp=sharing)
