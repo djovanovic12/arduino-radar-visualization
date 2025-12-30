@@ -3,7 +3,7 @@ import time
 import numpy as np
 import matplotlib.pyplot as plt
 
-PORT = "/dev/tty.usbmodem1201"  # promeni kad povežeš Arduino
+PORT = "/dev/tty.usbmodem1201"
 BAUD = 9600
 MAX_RANGE = 200
 
